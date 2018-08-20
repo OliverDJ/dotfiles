@@ -81,6 +81,6 @@
 	email = oliver.damsgaard@gmail.com
 	signingkey = A293E773
 [commit]
-	gpgsign = true
+	gpgsign = false
 [gpg]
 	program = gpg2
