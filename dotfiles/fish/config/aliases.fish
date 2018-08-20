@@ -94,4 +94,4 @@ alias egrep='egrep --color=auto'
 alias d="cd ~/Desktop"
 alias do="cd ~/Documents"
 alias dl="cd ~/Downloads"
-alias p="cd ~/Desktop/Projects"
+alias p="cd ~/Documents/projects"

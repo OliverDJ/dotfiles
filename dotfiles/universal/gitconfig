@@ -36,7 +36,7 @@
 [help]
 	# Automatically correct and execute mistyped commands
 	autocorrect = 1
-	
+
 # Push easily. http://stackoverflow.com/a/23918418/89484
 [push]
 	default = current
@@ -76,3 +76,11 @@
 	added = green
 	changed = red
 	untracked = cyan
+[user]
+	name = Oliver Damsgaard Jensen
+	email = oliver.damsgaard@gmail.com
+	signingkey = A293E773
+[commit]
+	gpgsign = true
+[gpg]
+	program = gpg2

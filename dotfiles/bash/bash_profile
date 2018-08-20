@@ -135,3 +135,4 @@ unset -f colors
 unset -f autocompletion
 unset -f folder_navigation
 unset -f history_tweaks
+export GPG_TTY=$(tty)
